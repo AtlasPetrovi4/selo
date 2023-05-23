@@ -3,7 +3,7 @@
 ### To start the services
 
 ```
-$ git clone https://github.com/DanilAkm/svoe_selo_scraping.git
+$ git clone https://github.com/AtlasPetrovi4/selo.git
 
 $ cd svoe_selo_scraping
 
