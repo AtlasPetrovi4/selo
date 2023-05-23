@@ -5,7 +5,7 @@
 ```
 $ git clone https://github.com/AtlasPetrovi4/selo.git
 
-$ cd svoe_selo_scraping
+$ cd selo_scraping
 
 $ docker-compose up
 ```
